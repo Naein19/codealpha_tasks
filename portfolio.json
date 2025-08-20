@@ -1,0 +1,19 @@
+{
+  "cash": 94658.7,
+  "stocks": {
+    "NVDA": {
+      "quantity": 10,
+      "avgPrice": 534.13
+    }
+  },
+  "transactions": [
+    {
+      "timestamp": "2025-07-27 09:18:44",
+      "type": "BUY",
+      "ticker": "NVDA",
+      "quantity": 10,
+      "price": 534.13,
+      "total": 5341.3
+    }
+  ]
+}
